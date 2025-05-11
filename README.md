@@ -5,7 +5,7 @@ git clone https://github.com/Lenglet-jeremy/DjangoFit.git
 cd DjangoFitProject
 
 # Créer et activer l'environnement virtuel
-python3 -m venv DjangoFitEnv
+python3 -m venv ../DjangoFitEnv
 
 source ../DjangoFitEnv/bin/activate
 
