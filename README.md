@@ -6,6 +6,7 @@ cd DjangoFitProject
 
 # Créer et activer l'environnement virtuel
 python3 -m venv DjangoFitEnv
+
 source DjangoFitEnv/bin/activate
 
 # Installer les dépendances
