@@ -1,6 +1,7 @@
 
 # Cloner le projet
 git clone https://github.com/Lenglet-jeremy/DjangoFit.git
+
 cd DjangoFitProject
 
 # Créer et activer l'environnement virtuel
